@@ -84,7 +84,7 @@ function Work() {
   return (
     <div className='w-full flex relative flex-col items-center mt-17'>
         <div className="max-w-8xl mx-auto text-center">
-            <h1 className='text-[40vw] font-semibold leading-none tracking-tight'>work</h1>
+            <h1 className='text-[40vw] font-semibold leading-none tracking-tight text-white'>work</h1>
         </div>
         <div className='text-zinc-500 text-xl font-semibold mt-4'>
             Web Design, Webflow Development, Creative Development
